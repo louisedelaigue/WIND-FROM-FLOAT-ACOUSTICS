@@ -1,6 +1,6 @@
 ## Subsurface acoustics from biogeochemical floats as a pathway to scalable autonomous observations of global surface wind
 
-#### *L. Delaigue<sup>1</sup>\, P. Cauchy<sup>2</sup>, D. Cazau<sup>3</sup>, J. Bonnel<sup>4</sup>, R. Bozzano<sup>5</sup>, S. Pensieri<sup>5</sup>, A. Gros-Martial<sup>6</sup>, E. Leymarie<sup>1</sup> and H. Claustre<sup>1</sup>*
+#### **L. Delaigue<sup>1</sup>\, P. Cauchy<sup>2</sup>, D. Cazau<sup>3</sup>, J. Bonnel<sup>4</sup>, R. Bozzano<sup>5</sup>, S. Pensieri<sup>5</sup>, A. Gros-Martial<sup>6</sup>, E. Leymarie<sup>1</sup> and H. Claustre<sup>1</sup>**
 
 <details>
 <summary><strong>Author Affiliations</strong></summary>
