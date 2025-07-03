@@ -1,15 +1,24 @@
 ## Subsurface acoustics from biogeochemical floats as a pathway to scalable autonomous observations of global surface wind
 
-#### *L. Delaigue<sup>1</sup>\, P. Cauchy<sup>2</sup>, D. Cazau<sup>3</sup>, R. Bozzano<sup>4</sup>, S. Pensieri<sup>4</sup>, A. Gros-Martial<sup>5</sup>, J. Bonnel<sup>6</sup>, E. Leymarie<sup>1</sup> and H. Claustre<sup>1</sup>*
+#### *L. Delaigue<sup>1</sup>\, P. Cauchy<sup>2</sup>, D. Cazau<sup>3</sup>, J. Bonnel<sup>4</sup>, R. Bozzano<sup>5</sup>, S. Pensieri<sup>5</sup>, A. Gros-Martial<sup>6</sup>, E. Leymarie<sup>1</sup> and H. Claustre<sup>1</sup>*
 
 <details>
 <summary><strong>Author Affiliations</strong></summary>
+  
 <sup>1</sup>Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche, LOV, 06230 Villefranche-sur-Mer, France
+  
 <sup>2</sup>Institut des sciences de la mer (ISMER), Université du Québec à Rimouski (UQAR), Rimouski, Canada
+
 <sup>3</sup>ENSTA, Lab-STICC, UMR CNRS 6285, Brest, France
-<sup>4</sup>Institute for the Study of Anthropic Impact and Sustainability in the Marine Environment (IAS), Consiglio Nazionale delle Ricerche (CNR), Genoa, Italy
-<sup>5</sup>Centre d’Études Biologiques de Chizé, CNRS, Villiers-en-bois, France
-<sup>6</sup>Marine Physical Laboratory, Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA, 92093, USA
+
+<sup>4</sup>Marine Physical Laboratory, Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA, 92093, USA
+
+<sup>5</sup>Institute for the Study of Anthropic Impact and Sustainability in the Marine Environment (IAS), Consiglio Nazionale delle Ricerche (CNR), Genoa, Italy
+
+<sup>6</sup>Centre d’Études Biologiques de Chizé, CNRS, Villiers-en-bois, France
+
+
+
 </details>
 
 *Corresponding author: Louise Delaigue ([louise.delaigue@imev-mer.fr](mailto:louise.delaigue@imev-mer.fr))*
