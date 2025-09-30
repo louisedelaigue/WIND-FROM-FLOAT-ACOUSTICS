@@ -1,6 +1,7 @@
 ## Subsurface acoustics from biogeochemical floats as a pathway to scalable autonomous observations of global surface wind
 
-#### **L. Delaigue<sup>1</sup>\, P. Cauchy<sup>2</sup>, D. Cazau<sup>3</sup>, J. Bonnel<sup>4</sup>, R. Bozzano<sup>5</sup>, S. Pensieri<sup>5</sup>, A. Gros-Martial<sup>6</sup>, E. Leymarie<sup>1</sup> and H. Claustre<sup>1</sup>**
+#### **L. Delaigue<sup>1</sup>\, P. Cauchy<sup>2</sup>, D. Cazau<sup>3</sup>, J. Bonnel<sup>4</sup>,S. Pensieri<sup>5</sup>, R. Bozzano<sup>5</sup>,  A. Gros-Martial<sup>6</sup>,  C. Schaeffer<sup>7</sup>, A. David<sup>7</sup>, P. Stil<sup>1</sup>, A. Poteau<sup>1</sup>, C. Schmechtig<sup>8</sup>, E. Leymarie<sup>1</sup> and H. Claustre<sup>1</sup>**
+
 
 <details>
 <summary><strong>Author Affiliations</strong></summary>
@@ -16,6 +17,11 @@
 <sup>5</sup>Institute for the Study of Anthropic Impact and Sustainability in the Marine Environment (IAS), Consiglio Nazionale delle Ricerche (CNR), Genoa, Italy
 
 <sup>6</sup>Centre d’Études Biologiques de Chizé, CNRS, Villiers-en-bois, France
+
+<sup>7</sup>NKE Instrumentation, Hennebont, France
+
+<sup>8</sup>OSU Ecce Terra, UAR 3455, CNRS, Sorbonne Université, Paris Cedex, France
+
 
 
 
