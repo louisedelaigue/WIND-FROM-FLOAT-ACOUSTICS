@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/563245618.svg)](https://zenodo.org/badge/latestdoi/563245618)
+[![DOI](https://zenodo.org/badge/1011757416.svg)](https://doi.org/10.5281/zenodo.17232551)
 
 ## Subsurface acoustics from biogeochemical floats as a pathway to scalable autonomous observations of global surface wind
 
