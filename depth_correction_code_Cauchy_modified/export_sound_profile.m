@@ -8,7 +8,7 @@ clear; clc;
 
 %% --- User settings ---
 ego_dir  = "/Users/ldelaigue/Documents/Github/WIND-FROM-FLOAT-ACOUSTICS/depth_correction_code_Cauchy_modified";  
-ego_file = "interp_profile.csv";      
+ego_file = "mean_profile.csv";      
 
 % Depth grid settings (meters)
 dh = 1;                     % depth step

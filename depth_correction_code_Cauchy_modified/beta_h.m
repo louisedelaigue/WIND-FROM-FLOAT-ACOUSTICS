@@ -1,4 +1,4 @@
-function [theta, L, beta_all, betaR_all, alpha_all, r, dr, h, dh, svel] = beta_h(ego_dir, ego_file)
+function [theta, L, beta_all, betaR_all, alpha_all, r, dr, h, dh, svel] = beta_h()
 % Numerical value of beta(h, f) as defined by Vagle 1990
 % Computes beta(h) for multiple frequencies using ray theory.
 % INPUTS:
@@ -6,6 +6,10 @@ function [theta, L, beta_all, betaR_all, alpha_all, r, dr, h, dh, svel] = beta_h
 %   ego_file - CSV file with 'pressure','temperature','salinity' columns
 % OUTPUTS:
 %   theta, L, beta_all, betaR_all, alpha_all, r, dr, h, dh, svel
+
+% Use fixed profile file
+ego_dir  = '/Users/ldelaigue/Documents/Github/WIND-FROM-FLOAT-ACOUSTICS/depth_correction_code_Cauchy_modified';
+ego_file = 'mean_profile.csv';
 
 % --- Load profile ---
 T = readtable(fullfile(ego_dir, ego_file));
@@ -84,7 +88,7 @@ end
 dlayer_depths = h(ilayers)';
 output = table(dlayer_depths, beta_all(:, 1), beta_all(:, 2), ...
     'VariableNames', {'Depth_m', 'Beta_dB_f3150', 'Beta_dB_f8000'});
-writetable(output, fullfile(ego_dir, 'beta_profile_output.csv'));
+writetable(output, '/Users/ldelaigue/Documents/Github/WIND-FROM-FLOAT-ACOUSTICS/depth_correction_code_Cauchy_modified/beta_profile_output.csv');
 
 % --- Final plot ---
 figure;
