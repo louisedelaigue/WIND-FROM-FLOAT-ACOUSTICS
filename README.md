@@ -34,7 +34,8 @@
 *Corresponding author: Louise Delaigue ([louise.delaigue@imev-mer.fr](mailto:louise.delaigue@imev-mer.fr))*
 
 > [!IMPORTANT]  
-> This study is currently under review for publication in Ocean Science.
+> This study is now published in Ocean Science.
+> Delaigue, L., Cauchy, P., Cazau, D., Bonnel, J., Pensieri, S., Bozzano, R., Gros-Martial, A., Schaeffer, C., David, A., Stil, P., Poteau, A., Schmechtig, C., Leymarie, E., and Claustre, H.: Passive acoustic monitoring from profiling floats as a pathway to scalable autonomous observations of global surface wind , Ocean Sci., 22, 101–117, https://doi.org/10.5194/os-22-101-2026, 2026.
 
 <img src="figs/Figure_1.png" width="600" height="400" />
 
